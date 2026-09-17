@@ -1,3 +1,4 @@
+from .context import KnowledgeContext
 from .extractor import RuleExtractor
 from .models import Rule
 from .retriever import RuleRetriever
@@ -8,4 +9,5 @@ __all__ = [
     "RuleStore",
     "RuleExtractor",
     "RuleRetriever",
+    "KnowledgeContext",
 ]
