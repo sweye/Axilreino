@@ -1,1 +1,8 @@
-
+{
+  "id": "python-largest-number-001",
+  "language": "python",
+  "title": "Find the largest number",
+  "prompt": "Write a function called largest_number(numbers) that returns the largest number in a list.",
+  "solution_file": "solution.py",
+  "test_file": "test_solution.py"
+}
